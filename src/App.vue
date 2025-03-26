@@ -57,9 +57,9 @@ export default {
   data() {
     return {
       productImages: [
-        "/f1.jpg",
-        "/f2.jpg",
-        "/f3.jpg"
+        "../public/f1.jpg",
+        "../public/f2.jpg",
+        "../public/f3.jpg"
       ],
       tab: 'Описание товара',
       items: ['Описание товара', 'Технические характеристики'],
